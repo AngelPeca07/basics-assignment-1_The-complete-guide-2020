@@ -1,6 +1,6 @@
 ## QA-Reservamos
 
-#Setup:
+# Setup:
 
 * Requires [Node](https://nodejs.org/en/) version >=4.0.0
 * Clone the repository
