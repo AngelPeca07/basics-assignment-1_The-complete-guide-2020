@@ -7,7 +7,7 @@
 * Navigate to project root  and run:
 
 ```sh
-npm install 
+npm init
 npm install --save-dev cypress
 npm run cypress:open
 ```
